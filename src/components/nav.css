@@ -1,0 +1,9 @@
+.navbar {
+	background-color: #C4C4C4 !important;
+}
+.navbar-brand {
+    font: 15px;
+}
+.navbar-nav>li>a {
+    color: red;
+}
